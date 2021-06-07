@@ -10,7 +10,7 @@
     "versions": {
         "0.1.0": {
             "dist": {
-                "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/master/siatech-ble-updater/dist/siatech-ble-updater-0.1.0.tgz",
+                "tarball": "https://github.com/siatech/nrf-tools/raw/main/siatech-ble-updater/dist/siatech-ble-updater-0.1.0.tgz",
                 "shasum": "423c5bf3739d91d0261b2f1c0bc23b6eba0a6314"
             }
         }
@@ -21,7 +21,7 @@
         "modified": "2018-06-19T11:32:48.188Z",
         "created": "2017-06-28T10:39:33.722Z"
     },
-    "homepage": "https://github.com/siatech/nrf-tools/siatech-ble-updater#readme",
+    "homepage": "https://github.com/siatech/nrf-tools/tree/main/siatech-ble-updater#readme",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/NordicSemiconductor/siatech-ble-updater.git"
