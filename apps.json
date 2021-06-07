@@ -1,0 +1,9 @@
+{
+    "_source": "siatech",
+    "siatech-ble-updater": {
+        "displayName": "SIAtech ComHAND updater",
+        "description": "Update your ComHAND remotes and receivers wirelessly.",
+        "homepage": "https://www.siatech.fr",
+        "url": "https://github.com/siatech/nrf-tools/siatech-ble-updater"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "_id": "siatech-ble-updater",
+    "_rev": "15-77be91d68e47914a7ad9082fae22bf62",
+    "name": "siatech-ble-updater",
+    "description": "Update your ComHAND remotes and receivers wirelessly.",
+    "displayName": "SIAtech ComHAND updater",
+    "dist-tags": {
+        "latest": "0.1.0"
+    },
+    "versions": {
+        "0.1.0": {
+            "dist": {
+                "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/master/siatech-ble-updater/dist/siatech-ble-updater-0.1.0.tgz",
+                "shasum": "423c5bf3739d91d0261b2f1c0bc23b6eba0a6314"
+            }
+        }
+    },
+    "readme": "# nRF Connect Bluetooth Low Energy\n\n[![Build Status](https://travis-ci.org/NordicSemiconductor/siatech-ble-updater.svg?branch=master)](https://travis-ci.org/NordicSemiconductor/siatech-ble-updater) [![License](https://img.shields.io/badge/license-Modified%20BSD%20License-blue.svg)](LICENSE)\n\n*nRF Connect Bluetooth<sup>&reg;</sup> Low Energy* is a cross-platform tool that enables testing and development with Bluetooth Low Energy (previously called Bluetooth Smart). It allows easy setup of connections with other devices and use these connections for reading and writing to the external nodes.\n\n*nRF Connect Bluetooth Low Energy* is implemented as an app for [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core#creating-apps).\n\n![screenshot](resources/ble-screenshot.png)\n\nThe app supports the following devices:\n* PCA10028 nRF51 Development Kit\n* PCA10031 nRF51 Dongle\n* PCA10040 nRF52 Development Kit\n* PCA10056 nRF52 Development Kit\n* PCA10059 nRF52 Dongle\n\n# Installation\n\nTo install the application you can download binaries from the [nRF Connect product page](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF-Connect-for-desktop) on Nordic Semiconductor web pages.\n\nnRF Connect currently supports the following operating systems:\n\n* Windows\n* Ubuntu Linux 64-bit\n* macOS\n\nAfter *nRF Connect* is installed, you can find *Bluetooth Low Energy* in the app list by selecting *Add/remove apps*.\n\n# Usage documentation\n\nA [User guide](http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.tools/dita/tools/nRF_Connect/nRF_Connect_intro.html?cp=4_2) is available on the *nRF Connect Bluetooth Low Energy* product pages.\n\n# Contributing\n\nFeel free to file code related issues on [GitHub Issues](https://github.com/NordicSemiconductor/siatech-ble-updater/issues) and/or submit a pull request. In order to accept your pull request, we need you to sign our Contributor License Agreement (CLA). You will see instructions for doing this after having submitted your first pull request. You only need to sign the CLA once, so if you have already done it for another project in the NordicSemiconductor organization, you are good to go.\n\n# Compiling from source\n\nSince *nRF Connect* expects local apps in `$HOME/.nrfconnect-apps/local` (Linux/macOS) or `%USERPROFILE%/.nrfconnect-apps/local` (Windows) directory, make sure your repository is cloned or linked there.\n\n## Dependencies\n\nTo build this project you will need to install the following tools:\n\n* Node.js (>=6.9)\n* npm (>=5.6.0) / yarn (>=1.4.0)\n\n## Compiling\n\nWhen *nRF Connect* have been installed, you are ready to start the compilation. Run the following command from the command line, standing in the root folder of the repository:\n\n    npm install\n\nWhen the procedure has completed successfully you can run the application by running:\n\n    npm run dev\n\nThe built app can be loaded by *nRF Connect* launcher.\n\n## Testing\n\nUnit testing can be performed by running:\n\n    npm test\n\n# License\n\nSee the [license file](LICENSE) for details.\n\n# Feedback\n\n* Ask questions on [DevZone Questions](https://devzone.nordicsemi.com)\n* File code related issues on [GitHub Issues](https://github.com/NordicSemiconductor/siatech-ble-updater/issues)\n",
+    "maintainers": [],
+    "time": {
+        "modified": "2018-06-19T11:32:48.188Z",
+        "created": "2017-06-28T10:39:33.722Z"
+    },
+    "homepage": "https://github.com/siatech/nrf-tools/siatech-ble-updater#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NordicSemiconductor/siatech-ble-updater.git"
+    },
+    "author": {
+        "name": "Nordic Semiconductor ASA"
+    },
+    "bugs": {
+        "url": "https://github.com/NordicSemiconductor/siatech-ble-updater/issues"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "readmeFilename": "README.md",
+    "_attachments": {}
+}
