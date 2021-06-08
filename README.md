@@ -14,7 +14,7 @@
 
   ![image-20210608102121977](home/img/image-20210608102121977.png)
 
-- Coller le lien suivant dans la boite de dialogue: https://raw.githubusercontent.com/siatech/nrf-tools/main/apps.json
+- Coller le lien suivant dans la boite de dialogue: [https://raw.githubusercontent.com/siatech/nrf-tools/main/apps.json](https://raw.githubusercontent.com/siatech/nrf-tools/main/apps.json)
 
   ![image-20210608102540497](home/img/image-20210608102540497.png)
 
