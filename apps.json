@@ -5,5 +5,11 @@
         "description": "Update your ComHAND remotes and receivers wirelessly.",
         "homepage": "https://www.siatech.fr",
         "url": "https://raw.githubusercontent.com/siatech/nrf-tools/main/siatech-ble-updater/siatech-ble-updater"
+    },
+        "comhand-configurator": {
+        "displayName": "ComHAND configurator",
+        "description": "Update your ComHAND remotes and receivers wirelessly.",
+        "homepage": "https://www.siatech.fr",
+        "url": "https://raw.githubusercontent.com/siatech/nrf-tools/main/comhand-configurator/comhand-configurator"
     }
 }
