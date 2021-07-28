@@ -11,7 +11,7 @@
         "0.1.1": {
             "dist": {
                 "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/main/dist/comhand-configurator/comhand-configurator-0.1.1.tgz",
-                "shasum": "5d99be6fe2284b66592aab2670ab6e19e06d0712"
+                "shasum": "87b241af2b6f42eaac6d71bd50ab3b7b86b17541"
             }
         },
         "0.1.0": {

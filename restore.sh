@@ -1,4 +1,4 @@
-ip=`ipconfig | grep 192.168.1 | sed 's/ /\n/gmi' | grep 192.168.1 | sed 's/\s//gmi'`
+ip=`ipconfig | grep "Adresse IPv4" | sed 's/ /\n/gmi' | grep 192.168.1 | sed 's/\s//gmi' | head -n1`
 
 rm apps-local.json
 from="http://$ip:8321"
