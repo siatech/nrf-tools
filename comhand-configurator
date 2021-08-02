@@ -14,10 +14,16 @@
                 "shasum": "76426d7b0e6408ba7d560f35b8ac83e421fe6ac5"
             }
         },
+        "0.1.2": {
+            "dist": {
+                "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/main/dist/comhand-configurator/comhand-configurator-0.1.2.tgz",
+                "shasum": "e1064915497c6ce6a61efa707439c29d95fbc876"
+            }
+        },
         "0.1.1": {
             "dist": {
                 "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/main/dist/comhand-configurator/comhand-configurator-0.1.1.tgz",
-                "shasum": "5d99be6fe2284b66592aab2670ab6e19e06d0712"
+                "shasum": "87b241af2b6f42eaac6d71bd50ab3b7b86b17541"
             }
         },
         "0.1.0": {
