@@ -5,9 +5,15 @@
     "description": "Update your ComHAND remotes and receivers wirelessly.",
     "displayName": "SIAtech ComHAND updater",
     "dist-tags": {
-        "latest": "0.1.3"
+        "latest": "0.2.0"
     },
     "versions": {
+        "0.2.0": {
+            "dist": {
+                "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/main/dist/comhand-configurator/comhand-configurator-0.2.0.tgz",
+                "shasum": "35c7fba0b763fa6c19ccdcf65a1fa02f5140f9fb"
+            }
+        },
         "0.1.3": {
             "dist": {
                 "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/main/dist/comhand-configurator/comhand-configurator-0.1.3.tgz",
