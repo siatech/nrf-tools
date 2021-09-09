@@ -1,3 +1,7 @@
+## Version 1.0.1
+### Updates
+- Merge v2.5 from [https://github.com/NordicSemiconductor/pc-nrfconnect-ble](https://github.com/NordicSemiconductor/pc-nrfconnect-ble)
+
 ## Version 1.0.0
 ### Features
 - Simplified the UI
