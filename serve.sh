@@ -1,4 +1,4 @@
-ip=`ipconfig | grep "Adresse IPv4" | sed 's/ /\n/gmi' | grep 192.168.1 | sed 's/\s//gmi' | head -n1`
+ip=$(ipconfig | grep "Adresse IPv4" | sed 's/ /\n/gmi' | grep 192.168.1 | sed 's/\s//gmi' | head -n1)
 
 cp apps.json apps-local.json
 from="https://raw.githubusercontent.com/siatech/nrf-tools/main"
