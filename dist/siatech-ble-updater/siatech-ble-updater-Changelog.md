@@ -1,3 +1,8 @@
+## Version 1.0.2 - 2021-09-10
+### Bugfixes
+- Fix the refresh of discovered devices
+- Remove default DFU package path
+
 ## Version 1.0.1
 ### Updates
 - Merge v2.5 from [https://github.com/NordicSemiconductor/pc-nrfconnect-ble](https://github.com/NordicSemiconductor/pc-nrfconnect-ble)
