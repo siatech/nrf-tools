@@ -1,3 +1,7 @@
+## Version 0.4.0 - 2021-09-14
+### Features
+Add a relay map visualization
+
 ## Version 0.3.0 - 2021-08-25
 Save language settings and add missing translations
 
