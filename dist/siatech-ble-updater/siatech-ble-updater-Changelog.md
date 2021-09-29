@@ -1,3 +1,7 @@
+## Version 1.1.0 - 2021-09-29
+### Features
+- Nicknames for discovered devices
+
 ## Version 1.0.2 - 2021-09-10
 ### Bugfixes
 - Fix the refresh of discovered devices
