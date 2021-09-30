@@ -35,7 +35,7 @@
         "1.1.0": {
             "dist": {
                 "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/main/dist/siatech-ble-updater/siatech-ble-updater-1.1.0.tgz",
-                "shasum": "c0a210930fe7b875131456227a95df721ffb5f3e"
+                "shasum": "962ea033e3beaa891a11f669f6925fad7dbf2202"
             }
         }
     },
