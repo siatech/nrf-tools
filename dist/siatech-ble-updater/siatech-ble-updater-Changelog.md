@@ -1,3 +1,7 @@
+## Version 2.0.0 - 2021-11-03
+### Features
+Merge v3.0.0 from [https://github.com/NordicSemiconductor/pc-nrfconnect-ble](https://github.com/NordicSemiconductor/pc-nrfconnect-ble)
+
 ## Version 1.1.0 - 2021-09-29
 ### Features
 - Nicknames for discovered devices
