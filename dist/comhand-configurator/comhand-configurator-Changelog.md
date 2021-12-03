@@ -1,3 +1,7 @@
+## Version 0.5.0 - 2021-12-03
+### Features
+Add the posture mode back as a toggleable option
+
 ## Version 0.4.0 - 2021-09-14
 ### Features
 Add a relay map visualization
