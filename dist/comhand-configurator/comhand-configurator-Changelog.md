@@ -1,3 +1,9 @@
+## Version 0.6.1 - 2021-12-20
+## Features
+Add the dead-zones setting back
+## Fixes
+Fix disabled relay groups when using postures
+
 ## Version 0.5.0 - 2021-12-03
 ### Features
 Add the posture mode back as a toggleable option
