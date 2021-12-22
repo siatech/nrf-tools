@@ -1,7 +1,11 @@
+## Version 0.7.0 - 2021-12-22
+### Features
+Add the "Switch with Off" button option
+
 ## Version 0.6.1 - 2021-12-20
-## Features
+### Features
 Add the dead-zones setting back
-## Fixes
+### Fixes
 Fix disabled relay groups when using postures
 
 ## Version 0.5.0 - 2021-12-03
