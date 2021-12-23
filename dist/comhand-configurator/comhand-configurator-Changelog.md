@@ -1,3 +1,7 @@
+## Version 0.7.1 - 2021-12-23
+### Fixes
+Fix up/down preset
+
 ## Version 0.7.0 - 2021-12-22
 ### Features
 Add the "Switch with Off" button option
