@@ -70,7 +70,7 @@
         },
         "0.7.1": {
             "dist": {
-                "tarball": "http://192.168.1.146:8321/dist/comhand-configurator/comhand-configurator-0.7.1.tgz",
+                "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/main/dist/comhand-configurator/comhand-configurator-0.7.1.tgz",
                 "shasum": "52b6836a52e4915284b7b261642718e3920d7240"
             }
         }
