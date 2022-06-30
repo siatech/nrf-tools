@@ -1,3 +1,9 @@
+## Version 0.8.0 - 2022-06-30
+### Features 
+ - Change icon
+ - Add small base visual
+ - Improve ring settings visuals
+
 ## Version 0.7.2 - 2021-04-21
 ### Features 
  - Add babhand preset

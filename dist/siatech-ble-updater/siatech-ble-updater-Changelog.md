@@ -1,4 +1,8 @@
-## Version 3.0.1 - 2022-04-21
+## Version 2.0.2 - 2022-06-30
+### Changed
+- Update icon
+
+## Version 2.0.1 - 2022-04-21
 ### Changed
 - Made compatible with next version of nRF Connect for Desktop.
 - Merge v3.0.1 from [https://github.com/NordicSemiconductor/pc-nrfconnect-ble](https://github.com/NordicSemiconductor/pc-nrfconnect-ble)
