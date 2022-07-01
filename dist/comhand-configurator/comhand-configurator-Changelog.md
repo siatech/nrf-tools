@@ -1,3 +1,8 @@
+## Version 0.8.1 - 2022-07-01
+### Features 
+ - Base images improvement 
+ - Change default base
+
 ## Version 0.8.0 - 2022-06-30
 ### Features 
  - Change icon

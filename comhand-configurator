@@ -5,7 +5,7 @@
     "description": "Configure your ComHAND products with ease",
     "displayName": "ComHAND Configurator",
     "dist-tags": {
-        "latest": "0.8.0"
+        "latest": "0.8.1"
     },
     "versions": {
         "0.3.0": {
@@ -84,6 +84,12 @@
             "dist": {
                 "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/main/dist/comhand-configurator/comhand-configurator-0.8.0.tgz",
                 "shasum": "c277688241587bac3f86669dd067c8201e32b15a"
+            }
+        },
+        "0.8.1": {
+            "dist": {
+                "tarball": "https://raw.githubusercontent.com/siatech/nrf-tools/main/dist/comhand-configurator/comhand-configurator-0.8.1.tgz",
+                "shasum": "e2c7c1fc22d3b206c7c624858851c522fdee82ce"
             }
         }
     },
