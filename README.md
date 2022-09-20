@@ -8,7 +8,7 @@
 
 *Cette étape n'est à réaliser qu'une seule fois*
 
-- Télécharger et installer [nRF Connect](https://www.nordicsemi.com/-/media/Software-and-other-downloads/Desktop-software/nRF-Connect-for-Desktop/3-8-0/nrfconnect-setup-3.8.0.exe)
+- Télécharger et installer [nRF Connect](https://www.nordicsemi.com/-/media/Software-and-other-downloads/Desktop-software/nRF-Connect-for-Desktop/3-11-1/nrfconnect-setup-3.11.1-ia32.exe)
 - Lancer nRF Connect
 - Cliquer sur **Settings** > **Add Source**
 
