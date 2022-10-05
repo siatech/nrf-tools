@@ -37,6 +37,6 @@ sed -i "s#$from#$to#g" comhand-configurator
 sed -i "s#$from#$to#g" siatech-ble-updater
 sed -i 's#"siatech"#"siatech-local"#g' apps-local.json
 
-echo "$localUrl/apps-local.json"
+echo "Add this URL to your nrf-connect sources: $localUrl/apps-local.json"
 
 python -m http.server $port --bind $ip
