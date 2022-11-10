@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ip=$(ipconfig | grep "Adresse IPv4" | sed 's/ /\n/gmi' | grep 192.168.1 | sed 's/\s//gmi' | head -n1)
+ip=$(ipconfig | grep "Adresse IPv4" | sed 's/ /\n/gmi' | grep "192\\.168\\.1\\." | sed 's/\s//gmi' | head -n1)
 port=8321
 localUrl="http://$ip:$port"
 remoteUrl="https://raw.githubusercontent.com/siatech/nrf-tools/main"
