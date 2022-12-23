@@ -1,3 +1,12 @@
+## Version 1.0.0 - 2022-10-07
+### Features 
+ - First official release
+ - Export usage notes
+
+## Version 0.9.0 - 2022-07-01
+### Features 
+ - Export wiring diagrams
+
 ## Version 0.8.1 - 2022-07-01
 ### Features 
  - Base images improvement 
